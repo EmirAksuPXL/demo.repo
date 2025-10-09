@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 dit is mijn testje
+=======
+dit is een testje
+dit is een meilijke tekst heeeeeeeeeel moeilijk
+
+>>>>>>> 058616b256b7d1f9976a3f9783b3ccf31061e230
