@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\12401307\\Documents\\gittest3\\",
+  "WorkspaceRootPath": "C:\\Users\\12401307\\demo.repo\\gittest3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D47AE85-CD73-4170-979C-B14318264E41}|gittest3\\gittest3.csproj|c:\\users\\12401307\\documents\\gittest3\\gittest3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D47AE85-CD73-4170-979C-B14318264E41}|gittest3\\gittest3.csproj|c:\\users\\12401307\\demo.repo\\gittest3\\gittest3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D47AE85-CD73-4170-979C-B14318264E41}|gittest3\\gittest3.csproj|solutionrelative:gittest3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\Program.cs",
               "RelativeDocumentMoniker": "gittest3\\Program.cs",
-              "ToolTip": "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\Program.cs",
+              "ToolTip": "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\Program.cs",
               "RelativeToolTip": "gittest3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-30T14:58:34.879Z",
               "EditorCaption": ""

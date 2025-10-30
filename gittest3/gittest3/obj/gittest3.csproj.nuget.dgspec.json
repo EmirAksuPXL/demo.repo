@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\gittest3.csproj": {}
+    "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\gittest3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\gittest3.csproj": {
+    "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\gittest3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\gittest3.csproj",
+        "projectUniqueName": "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\gittest3.csproj",
         "projectName": "gittest3",
-        "projectPath": "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\gittest3.csproj",
+        "projectPath": "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\gittest3.csproj",
         "packagesPath": "C:\\Users\\12401307\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12401307\\Documents\\gittest3\\gittest3\\obj\\",
+        "outputPath": "C:\\Users\\12401307\\demo.repo\\gittest3\\gittest3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12401307\\AppData\\Roaming\\NuGet\\NuGet.Config",

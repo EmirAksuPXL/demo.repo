@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gittest3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+358e1a771e541fc4f1dcb3abe3d1392582ca735d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0fdbdefab63f9438158b11e45aefe29e85d6347")]
 [assembly: System.Reflection.AssemblyProductAttribute("gittest3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gittest3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
