@@ -6,6 +6,7 @@
         {
             Console.WriteLine("Emir2");
             Console.WriteLine("test2");
+            Console.WriteLine("test3");
         }
     }
 }
